@@ -1,0 +1,20 @@
+{
+  "name": "pcanham-puppetmodule_puppetcron",
+  "author": "",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "",
+  "version": "",
+  "checksums": {
+    "Gemfile": "3700204fd3a2be89d99f0635a60ea277",
+    "Modulefile": "fbf6f72f88e419d9b406f6e07ae2cadb",
+    "Rakefile": "772b3929b4b9f6bd812d75c8b178876e",
+    "manifests\\init.pp": "7837e7f154db61b8bed1ecebb5616027",
+    "spec\\classes\\init_spec.rb": "b4b7d786c3f24bc18bd4dc62dbc0079d",
+    "spec\\spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec\\spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0"
+  },
+  "dependencies": []
+}
