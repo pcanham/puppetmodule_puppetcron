@@ -16,7 +16,7 @@ class cron {
 
   cron { 'manual-puppet':
     ensure  => present,
-    command => '/usr/bin/puppet agent --onetime --no-daemonize --logdest syslog > /dev/null 2>&1',
+    command => '/usr/bin/puppet agent --onetime --no-daemonize --logdest syslog --pluginsync > /dev/null 2>&1',
     user    => 'root',
     hour    => '*',
     minute  => [$minute1, $minute2],
