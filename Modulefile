@@ -1,5 +1,5 @@
 name    'puppetmodule-puppetcron'
-version '0.0.1'
+version '0.0.2'
 source  'git@git-infra.internal:puppet/puppetmodule_puppetcron.git'
 author  'pcanham'
 license ''
